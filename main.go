@@ -1,6 +1,6 @@
 package main
 
-import "struct_demo/demos"
+import demos "struct_demo/demo"
 
 func main() {
 
